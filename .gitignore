@@ -1,0 +1,40 @@
+# other directories
+tmp/
+out/
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+*.Identifier
+
+# starting with . or ~
+.*
+~*
+
+# log files and databases
+*.log
+*.sql
+*.sqlite
+
+# compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# track these files, if they exist
+!.gitignore
+!.gitattributes
+!.editorconfig
